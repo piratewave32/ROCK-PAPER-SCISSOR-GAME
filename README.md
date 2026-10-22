@@ -115,7 +115,7 @@ Note: the file is opened in write mode (`"w"`), so each run replaces the previou
 ## Author
 
 Your Name  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@piratewave32](https://github.com/piratewave32)
 
 ## License
 
